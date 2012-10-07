@@ -26,7 +26,7 @@ Installing at Appfog
 You'll first need to create an account on http://appfog.com/ and download the appfog utility programs.  Then create a Django application using the AppFog web interface, naming it whatever you'd like.  You can then upload your application::
 
     % af login
-    % af update echo   <-- replace who with your app name
+    % af update echo   <-- replace echo with your app name
 
 
 Configuring on Sawanet
